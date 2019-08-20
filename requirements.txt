@@ -1,0 +1,6 @@
+
+matplotlib
+numpy
+astropy
+pyvo
+git+https://github.com/astropy/astroquery@master#egg=astroquery
